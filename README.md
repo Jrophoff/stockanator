@@ -32,4 +32,4 @@
 
 ## Link to site:
 
-https://ening6649.github.io/project1/
+https://jrophoff.github.io/stockanator/
